@@ -379,10 +379,10 @@
   )
 
   (no_connect (at 126.619 73.66) (uuid 14638d32-29a9-4c59-8473-417d72c73d8a))
-  (no_connect (at 126.619 78.74) (uuid 14638d32-29a9-4c59-8473-417d72c73d8a))
+  (no_connect (at 126.619 78.74) (uuid 14638d32-29a9-4c59-8473-417d72c73d8b))
   (no_connect (at 116.459 43.18) (uuid 5e952069-d8c9-4527-aee5-77127b4897c5))
   (no_connect (at 126.619 81.28) (uuid 9e036e04-ff56-43c4-b94e-5150bcb3b83d))
-  (no_connect (at 126.619 86.36) (uuid 9e036e04-ff56-43c4-b94e-5150bcb3b83d))
+  (no_connect (at 126.619 86.36) (uuid 9e036e04-ff56-43c4-b94e-5150bcb3b83e))
   (no_connect (at 126.619 88.9) (uuid fb87466f-1453-42e7-9b09-fdc295304102))
 
   (wire (pts (xy 144.653 58.547) (xy 153.289 58.547))
@@ -709,6 +709,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://en.wikipedia.org/wiki/HDMI" (id 3) (at 115.824 71.12 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC" "C111617" (id 4) (at 116.459 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid abd6a31b-c313-4e5c-9618-38c66b70dcfc))

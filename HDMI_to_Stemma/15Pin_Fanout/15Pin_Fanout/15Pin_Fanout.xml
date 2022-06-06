@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\rdm8\Documents\GitHub\MicroD_Stemma_Fanout\HDMI_to_Stemma\15Pin_Fanout\15Pin_Fanout\15Pin_Fanout.kicad_sch</source>
-    <date>6/6/2022 5:22:43 PM</date>
+    <date>6/6/2022 5:32:37 PM</date>
     <tool>Eeschema (6.0.5)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -28,7 +28,11 @@
       <value>HDMI_A</value>
       <footprint>0_15Pin_FootprintsLib:HDMI-SMD_HDMI-019S</footprint>
       <datasheet>https://en.wikipedia.org/wiki/HDMI</datasheet>
+      <fields>
+        <field name="LCSC">C111617</field>
+      </fields>
       <libsource lib="Connector" part="HDMI_A" description="HDMI type A connector"/>
+      <property name="LCSC" value="C111617"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="15Pin_Fanout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
