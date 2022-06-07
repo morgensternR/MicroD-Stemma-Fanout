@@ -1500,7 +1500,7 @@
   (gr_line (start 8.5 -21.25) (end 17.75 -21.25) (layer "Edge.Cuts") (width 0.1) (tstamp af7c9589-3e63-4e1e-9983-19f1a821348e))
   (gr_line (start -8.5 -4.75) (end -8.5 -14.75) (layer "Edge.Cuts") (width 0.1) (tstamp eb8595c6-f964-4ac0-a94c-39290d76cc7b))
   (gr_line (start 8.5 -4.75) (end 8.5 6.75) (layer "Edge.Cuts") (width 0.1) (tstamp f8a0be9c-4298-4ae9-9b86-cce002122b9b))
-  (gr_text "HDMI_JST_21Pin_Diodes & Heaters\nRyan Morgenstern\n6/62022" (at 0.25 1) (layer "B.SilkS") (tstamp 2f48e4f1-dc94-4981-99f8-50806cd4087b)
+  (gr_text "HDMI_JST_21Pin_Heaters & Extra\nRyan Morgenstern\n6/62022" (at 0.25 1) (layer "B.SilkS") (tstamp 2f48e4f1-dc94-4981-99f8-50806cd4087b)
     (effects (font (size 0.5 0.5) (thickness 0.125)) (justify mirror))
   )
 
